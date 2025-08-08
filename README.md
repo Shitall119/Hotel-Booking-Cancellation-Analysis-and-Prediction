@@ -15,7 +15,7 @@ This project aims to **predict whether a hotel reservation will be canceled** us
 ## 📂 Dataset:
 
 Source: https://www.kaggle.com/datasets/mojtaba142/hotel-booking
-File: `hotel_booking.csv` 
+- File: `hotel_booking.csv` 
 
 The dataset includes the following features:
 
